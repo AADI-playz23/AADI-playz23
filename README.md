@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Researcher+%26+Full-Stack+Builder;Open-Source+Platform+Hacker;Building+on+free-tier+%E2%80%94+no+limits%2C+just+ingenuity;India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Researcher+%26+Full-Stack+Builder;Open-Source+Platform+Hacker;Building+on+free-tier+%E2%80%94+no+limits%2C+just+ingenuity;From+Faridabad%2C+Haryana+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,11 +25,11 @@
 aadi = {
     "name"      : "Aadarsh Pandey",
     "alias"     : "AADI-playz23",
-    "location"  : "India 🇮🇳",
+    "location"  : "Faridabad, Haryana 🇮🇳",
     "role"      : ["Independent Researcher", "Full-Stack Dev", "Platform Builder"],
     "focus"     : ["AI/ML Systems", "Encrypted Messaging", "Cloud Infra on $0"],
     "philosophy": "Build ambitious things with zero budget & maximum ingenuity.",
-    "currently" : "Building ABSORA Chat + JumboLang AI-native systems language",
+    "currently" : "Building ABSORA Chat + DomainMythos 770M LLM research",
     "fun_fact"  : "I run cloud infra entirely on Colab, Kaggle & free-tier tools 🚀",
 }
 ```
@@ -46,9 +46,9 @@ aadi = {
       <img src="https://img.shields.io/badge/Status-In%20Development-7c3aed?style=for-the-badge&logo=signal&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>🐘 JumboLang</h3>
-      <p>An <strong>AI-native systems language</strong> built in C++ with a custom compiler pipeline (Lexer, Parser, AST) and modular VM. Features built-in <code>{llm}</code> tags for zero-boilerplate Gemini integration, native Linux socket networking, and C++ smart pointer memory safety.</p>
-      <img src="https://img.shields.io/badge/Status-V1%20Prototype-a855f7?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <h3>🧠 DomainMythos</h3>
+      <p>A <strong>770M-parameter</strong> recurrent-depth transformer with domain-pretrained MoE experts (Cybersecurity, Code, Math, Reasoning) and an intent-based adaptive router. Targeting arXiv → IEEE Access / EMNLP Findings.</p>
+      <img src="https://img.shields.io/badge/Status-Research%20Phase-a855f7?style=for-the-badge&logo=arxiv&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -61,12 +61,8 @@ aadi = {
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🌐 **Absoracloud** | Multi-service hosting platform — web, Minecraft, VPS, cloud storage & DevBox terminal hosting. Powered by GitHub Actions + Cloudflare Tunnels entirely on free-tier. | GitHub Actions · Cloudflare · InfinityFree | [absoracloud.iblogger.org](https://absoracloud.iblogger.org) |
-| 🤖 **Absora Agent** | Multi-agent AI orchestration — Gemini 2.5 Flash as manager + Groq SLM sub-agents for code, math, writing & reasoning with Brave Search integration. | Python · Gemini · Groq · HTML | [AADI-playz23/ABSORA-Desktop-Agent](https://github.com/AADI-playz23/ABSORA-Desktop-Agent) |
-| 🐘 **JumboLang** | A sovereign AI-native systems language built in C++ — bridging Python's simplicity with C's raw power. Custom compiler, VM, native LLM tags & Linux socket networking. | C++ · Assembly · Makefile | [AADI-playz23/JumboLang](https://github.com/AADI-playz23/JumboLang) |
-| ☁️ **Absoracloud Community** | Open community layer for Absoracloud — Python scripts, GitHub Actions workflows, and a local DB layer for service orchestration. | Python · GitHub Actions | [AADI-playz23/absoracloud-community](https://github.com/AADI-playz23/absoracloud-community) |
-| 📚 **Study Web** | A clean HTML-based study companion web app. | HTML | [AADI-playz23/study-web](https://github.com/AADI-playz23/study-web) |
-| 📱 **mwapp** | A lightweight HTML web app. | HTML | [AADI-playz23/mwapp](https://github.com/AADI-playz23/mwapp) |
+| 🌐 **Absoracloud** | Multi-service hosting platform — web, Minecraft, VPS, cloud storage & DevBox terminal hosting | GitHub Actions · Cloudflare Tunnels · InfinityFree | [absoracloud.iblogger.org](https://absoracloud.iblogger.org) |
+| 🤖 **Absora Agent** | Multi-agent AI orchestration platform with Gemini 2.5 Flash as manager + Groq SLM sub-agents for code/math/writing/reasoning + Brave Search | Python · Gemini API · Groq · HTML | `Private` |
 
 </div>
 
