@@ -25,8 +25,8 @@ aadi = {
     "role"      : "Full-Stack Developer & Minecraft Server Developer",
     "goal"      : "Build real, useful software — from web apps to platform infra — entirely on free-tier tools",
     "languages" : ["Python", "C++", "JavaScript", "PHP", "HTML", "CSS"],
-    "frameworks": ["Next.js", "Node.js", "React"],
-    "platforms" : ["Vercel", "InfinityFree", "MySQL", "GitHub Actions", "Cloudflare"],
+    "frameworks": ["Next.js", "Node.js", "React",],
+    "platforms" : ["Vercel", "InfinityFree", "MySQL","Redis" , "GitHub Actions", "Cloudflare"],
     "fun_fact"  : "I run a full hosting platform on $0 budget 🚀",
 }
 ```
